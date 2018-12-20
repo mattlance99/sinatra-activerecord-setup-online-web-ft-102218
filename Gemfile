@@ -12,6 +12,10 @@ gem 'activerecord', '4.2.5'
 group :development do
 	gem 'shotgun'
 	gem 'pry'
+  gem 'shotgun'
+  gem 'pry'
+  gem 'tux'
+  gem 'sqlite3'
 end
     
 group :test do
